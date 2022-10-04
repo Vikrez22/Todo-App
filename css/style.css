@@ -42,7 +42,7 @@ border-radius: 3px;
 
 #tasks {
     display: grid;
-    gap: 14px;
+    gap: 20px;
 }
 
 #tasks div{
