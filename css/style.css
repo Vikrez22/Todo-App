@@ -65,3 +65,11 @@ border-radius: 3px;
 #msg {
     color: red;
 }
+
+.about {
+    border: none; 
+    border-radius: 4px;
+    /* margin-left: 190px; */
+    float: right;
+    margin-top: -40px;
+}
